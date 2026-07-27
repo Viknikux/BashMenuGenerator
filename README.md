@@ -1,14 +1,31 @@
 # BashMenuGenerator
-BMG is a ligthweight, simple utility for making bash scripts with chain commands and launchers, it is a linux port of the [BatchMenuGenerator](https://github.com/Viknikux/BatchMenuGenerator) program  
-# Compatibility
-It runs on virtualy any distro from linux 2.6.x and above, run it via terminal (fully CLI, no x11/wayland or window manager required) using
-```
+
+**BashMenuGenerator (BMG)** is a lightweight, simple CLI utility for creating custom Bash menu scripts with chained commands, launchers, and system tasks. It is the official Linux port of [BatchMenuGenerator](https://github.com/Viknikux/BatchMenuGenerator).
+
+---
+
+## 🚀 Features
+
+* **Command Chaining:** Chain multiple terminal commands together seamlessly.
+* **`bash -c` Wrapper:** Safely run complex pipes, file redirections, and isolated subshell commands.
+* **Custom Descriptions:** Add clean, human-readable labels and descriptions to your menu items.
+* **Zero Dependencies:** Fully standalone binary with no extra setup required.
+* **More Ported Features Coming Soon!** Bringing over favorite tools from the original Windows version.
+
+---
+
+## 🐧 Compatibility & Running
+
+BashMenuGenerator runs on virtually **any Linux distribution with Kernel 2.6.x or newer**.
+
+Because it is 100% CLI-based, it works anywhere—including raw TTY terminals, SSH sessions, and headless servers (no X11, Wayland, or desktop environment required).
+
+### How to Run:
+Make sure the executable has run permissions, then execute it from your terminal:
+
+```bash
+chmod +x BashMenuGenerator
 ./BashMenuGenerator
 ```
-in the program directory (eg. home)  
-# Features
-Supports multiple commands, bash c- wrapper, descriptions and more ported features from the windows batch version to come!  
-  
-Almost all credits due to Gemini AI for helping me make this port as i have little to no knowlage about linux bash scripting  
-  
-Please star this repostiory to support future development and push the program to its user base!
+## Support the project  
+If you found this tool usefulIf you find BashMenuGenerator useful, please consider giving this repository a Star ⭐️ to support future development and help others discover the project!
