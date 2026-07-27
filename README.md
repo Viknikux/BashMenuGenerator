@@ -28,4 +28,4 @@ chmod +x BashMenuGenerator
 ./BashMenuGenerator
 ```
 ## Support the project  
-If you found this tool usefulIf you find BashMenuGenerator useful, please consider giving this repository a Star ⭐️ to support future development and help others discover the project!
+If you find BashMenuGenerator useful, please consider giving this repository a Star ⭐️ to support future development and help others discover the project!
