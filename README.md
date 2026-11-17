@@ -10,7 +10,8 @@
 
 Create everything from simple command launchers to complex, multi-level menu systems with custom commands, root privileges and password protection.
 
-> 🪟 **Looking for Windows support?** Check out the original Windows version, [BatchMenuGenerator](https://github.com/Viknikux/BatchMenuGenerator), which creates `.bat` menus and `.exe` files!
+> 🪟 **Looking for Windows support?** Check out the original Windows version, [BatchMenuGenerator](https://github.com/Viknikux/BatchMenuGenerator), which creates `.bat` menus and `.exe` files!  
+> 🌐 **Also check out the BMG website:** [bmg.viknikux.workers.dev](https://bmg.viknikux.workers.dev)
 
 ---
 
